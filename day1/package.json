@@ -1,0 +1,22 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "Mern stack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shreedharhegde99/MERN.git"
+  },
+  "author": "Shreedhar Hegde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shreedharhegde99/MERN/issues"
+  },
+  "homepage": "https://github.com/shreedharhegde99/MERN#readme",
+  "dependencies": {
+    "qr-image": "^3.2.0"
+  }
+}

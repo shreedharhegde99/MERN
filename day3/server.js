@@ -62,6 +62,6 @@ app.delete("/api/students/:id", (req, res) => {
 	}
 });
 
-app.listen(3000, () => {
-	console.log("server is runnng");
+app.listen(5000, () => {
+	console.log("server is runnng at PORT 5000");
 });
